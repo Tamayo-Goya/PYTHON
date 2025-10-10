@@ -1,5 +1,5 @@
-#Solicitar el numero 
 num = int(input("Introduce un número: "))
+#Solicitar el numero 
 
-#Elevamos ese numero y lo mostramos por pantalla
 print("El numero",num, "elevado al cudrado es", num**2)
+#Elevamos ese numero y lo mostramos por pantalla
