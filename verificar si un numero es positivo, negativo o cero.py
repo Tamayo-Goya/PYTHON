@@ -12,3 +12,4 @@ elif num == 0:
 else:
     print("El numero", num, "es negativo")
 #Utilizamos else para imprimir en pantalla negativo 
+
