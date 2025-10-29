@@ -2,6 +2,7 @@ import numpy as np
 #Importamos numpy y le cambiaamos el nombre a np
 #Esto es solo para simplificar a la hora de llamarla
 
+
 matriz = np.array([[1, 2], [3, 4]])
 print("Matriz original:")
 print(matriz)
