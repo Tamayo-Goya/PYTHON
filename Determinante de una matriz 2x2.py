@@ -4,7 +4,6 @@ matriz = [
 ]
 #Definimos la matriz 2x2
 
-
 determinante = matriz[0][0] * matriz[1][1] - matriz[0][1] * matriz[1][0]
 #Calculamos el determinante
 #Fórmula para matriz 2x2: determinante = a*d - b*c
