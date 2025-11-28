@@ -31,7 +31,6 @@ class Gerente(Empleado):
         super().mostrar_info()             
         #llamamos al método original de la clase padre
         print(f"Equipo a cargo: {self.equipo}")
-        print("-----")
 
 
 empleado1 = Empleado("Laura", 2500)
